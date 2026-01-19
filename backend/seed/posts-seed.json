@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Getting Started with PostgreSQL",
+    "slug": "getting-started-with-postgresql",
+    "content": "PostgreSQL is a powerful open-source relational database management system. In this comprehensive guide, we'll cover everything from basic installation to advanced query optimization. Whether you're a beginner or looking to deepen your PostgreSQL knowledge, this tutorial provides practical examples and best practices for production deployments.",
+    "excerpt": "Learn PostgreSQL basics from installation to production deployment",
+    "publishStatus": "published",
+    "publicationDate": "2026-01-15T10:00:00.000Z",
+    "category": 1
+  },
+  {
+    "title": "Docker Compose for Development Environments",
+    "slug": "docker-compose-for-development",
+    "content": "Docker Compose simplifies the process of defining and running multi-container applications. This guide walks through creating development environments with PostgreSQL, Redis, and application containers. Learn how to configure volumes, networks, and environment variables for seamless local development that mirrors production.",
+    "excerpt": "Build consistent development environments with Docker Compose",
+    "publishStatus": "published",
+    "publicationDate": "2026-01-14T14:30:00.000Z",
+    "category": 2
+  },
+  {
+    "title": "Building REST APIs with Strapi",
+    "slug": "building-rest-apis-with-strapi",
+    "content": "Strapi is a headless CMS that makes building APIs incredibly fast. This tutorial covers content type creation, relationships, authentication, and custom controllers. By the end, you'll have a production-ready API with proper permissions and documentation.",
+    "excerpt": "Create production-ready APIs in minutes with Strapi CMS",
+    "publishStatus": "published",
+    "publicationDate": "2026-01-13T09:15:00.000Z",
+    "category": 3
+  },
+  {
+    "title": "Introduction to Machine Learning with Python",
+    "slug": "intro-to-machine-learning-python",
+    "content": "Machine learning doesn't have to be intimidating. This beginner-friendly guide introduces core ML concepts using Python and scikit-learn. We'll build a simple classification model, understand training vs testing data, and evaluate model performance with real-world examples.",
+    "excerpt": "Start your ML journey with Python and practical examples",
+    "publishStatus": "published",
+    "publicationDate": "2026-01-12T16:45:00.000Z",
+    "category": 4
+  },
+  {
+    "title": "Kubernetes Deployment Strategies",
+    "slug": "kubernetes-deployment-strategies",
+    "content": "Deploying applications to Kubernetes requires understanding various deployment strategies. This guide covers rolling updates, blue-green deployments, and canary releases. Learn when to use each strategy and how to implement them with practical YAML examples and kubectl commands.",
+    "excerpt": "Master Kubernetes deployments with proven strategies",
+    "publishStatus": "published",
+    "publicationDate": "2026-01-11T11:20:00.000Z",
+    "category": 3
+  },
+  {
+    "title": "TypeScript Best Practices for 2026",
+    "slug": "typescript-best-practices-2026",
+    "content": "TypeScript continues to evolve with powerful features for type safety. This article covers modern best practices including strict mode configuration, utility types, discriminated unions, and effective use of generics. Write safer, more maintainable code with these proven patterns.",
+    "excerpt": "Write better TypeScript with modern patterns and practices",
+    "publishStatus": "published",
+    "publicationDate": "2026-01-10T08:30:00.000Z",
+    "category": 1
+  },
+  {
+    "title": "Database Indexing Explained",
+    "slug": "database-indexing-explained",
+    "content": "Database indexes are crucial for query performance, but they come with tradeoffs. This deep dive explains how B-tree and hash indexes work, when to use composite indexes, and how to avoid common pitfalls. Includes real-world examples showing 100x performance improvements.",
+    "excerpt": "Optimize database performance with effective indexing strategies",
+    "publishStatus": "published",
+    "publicationDate": "2026-01-09T13:00:00.000Z",
+    "category": 1
+  },
+  {
+    "title": "Building a CI/CD Pipeline with GitHub Actions",
+    "slug": "cicd-pipeline-github-actions",
+    "content": "Automate your deployment workflow with GitHub Actions. This comprehensive tutorial covers building, testing, and deploying applications automatically. Learn workflow syntax, secrets management, matrix builds, and deployment to various cloud platforms including AWS, GCP, and Railway.",
+    "excerpt": "Automate deployments with GitHub Actions workflows",
+    "publishStatus": "published",
+    "publicationDate": "2026-01-08T15:45:00.000Z",
+    "category": 3
+  },
+  {
+    "title": "React Server Components Deep Dive",
+    "slug": "react-server-components-deep-dive",
+    "content": "React Server Components represent a paradigm shift in how we build React applications. This technical deep dive explores the architecture, performance benefits, and practical use cases. Learn how to migrate existing apps and build new ones with this powerful pattern.",
+    "excerpt": "Understand and implement React Server Components effectively",
+    "publishStatus": "draft",
+    "publicationDate": "2026-01-07T10:00:00.000Z",
+    "category": 1
+  },
+  {
+    "title": "Prompt Engineering for Developers",
+    "slug": "prompt-engineering-for-developers",
+    "content": "AI coding assistants are transforming development workflows. This guide teaches effective prompt engineering techniques for tools like GitHub Copilot, Claude, and ChatGPT. Learn how to get better code suggestions, debug faster, and leverage AI for documentation and testing.",
+    "excerpt": "Master AI coding assistants with better prompting techniques",
+    "publishStatus": "draft",
+    "publicationDate": "2026-01-06T12:30:00.000Z",
+    "category": 4
+  }
+]

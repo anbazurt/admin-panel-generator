@@ -1,0 +1,43 @@
+{
+  "kind": "singleType",
+  "collectionName": "appsettings",
+  "info": {
+    "singularName": "appsetting",
+    "pluralName": "appsettings",
+    "displayName": "Appsetting"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "siteName": {
+      "type": "string",
+      "required": true
+    },
+    "siteDescription": {
+      "type": "text"
+    },
+    "logo": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "socialLinks": {
+      "type": "json"
+    },
+    "theme": {
+      "type": "enumeration",
+      "default": "ligth",
+      "enum": [
+        "ligth",
+        "dark"
+      ]
+    }
+  }
+}
